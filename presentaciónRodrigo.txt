@@ -1,2 +1,3 @@
 Hola soy Rodrigo estudiante de 3er año de IECI
-quiero aprender a programar mejor en JavaScript y saber los comandos del Git.
+quiero aprender a programar mejor en JavaScript, saber los comandos del Git,
+poder hacer mi presentacion y subirla con la terminal usando Git.
