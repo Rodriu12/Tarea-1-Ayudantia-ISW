@@ -1,0 +1,2 @@
+Hola soy Rodrigo estudiante de 3er año de IECI
+quiero aprender a programar mejor en JavaScript y saber los comandos del Git.
